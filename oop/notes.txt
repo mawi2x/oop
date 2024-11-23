@@ -1,0 +1,18 @@
+update
+
+add class
+add folders
+separate wordlist
+tkinter to pygame for good user interface/game or code logic
+read and write 
+
+
+
+developing
+pygame for easier python game development
+watchdog for dynamic changes 
+
+
+
+
+https://www.javatpoint.com/pep-8-in-python#:~:text=PEP%208%20is%20a%20document,readability%20and%20consistency%20of%20code.
